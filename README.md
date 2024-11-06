@@ -18,4 +18,4 @@ Personas de 25 a 50 años con experiencia en el cuidado de plantas como hobby.
 - Registro de plantas
 - IA para consultas e identificacion de plantas
 - Recordatorios personalizados
-- Guías de la comunidad
+- Guías de la comunidad por usuarios expertos
